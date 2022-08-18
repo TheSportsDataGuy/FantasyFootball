@@ -13,3 +13,5 @@ The contents of this repository will closely follow those steps with each positi
 
 There's a lot of luck involed in fantasy football, but hopefully this project can shed some light onto things like performance and injury predictors,
 draft targets, and other interesting new ideas.
+
+Note: many of the value-based concepts stem from an idea popularized by Joe Bryant. For more info see: https://www.fftoday.com/guest/joe/principles_vbd.htm
