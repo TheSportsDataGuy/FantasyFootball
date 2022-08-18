@@ -2,10 +2,9 @@
 a repository for everything fantasy football
 
 This repository is a fun project dedicated to my enjoyment of fantasy football.
-The idea is simple:
-  1) Create an easily accessible data set of fantasy football stats over the last 10 years for each relevant position
-  2) Analyze that data and make predictions about the upcoming season
-  3) Win
+
+The idea is to create an easily accessible data set of fantasy football stats over the last 10 years for each relevant position,
+analyze that data and make predictions about the upcoming season, and, ultimately, win more games.
 
 The contents of this repository will closely follow those steps with each positional data set uniques characteristics:
   1) Make the data set
