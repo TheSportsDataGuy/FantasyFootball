@@ -1,5 +1,5 @@
 # FantasyFootball
-a repository for everything fantasy football
+## a repository for everything fantasy football
 
 This repository is a fun project dedicated to my enjoyment of fantasy football.
 
